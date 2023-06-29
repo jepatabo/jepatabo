@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jepatabo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m always on the look out to learn more about Front-End Development. 
 - 📫 How to reach me via email jeanpaul.tabone@gmail.com
 
 <!---
